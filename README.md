@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋
+I like knowing why things work, not just what they do. Slight tendency to go down rabbit holes, but that's kind of the point.
 
 <!--
 **commissi0n/commissi0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
